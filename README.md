@@ -5,3 +5,4 @@ K8s Wordpress site with mysql backend (for testing)
 * __date__: 2021-10-19
 
 
+Made from: https://k8syaml.com/
